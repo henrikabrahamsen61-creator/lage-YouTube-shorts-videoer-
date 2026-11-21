@@ -4,9 +4,9 @@
 - **Språk i voiceover og tekst:** engelsk (filene i repoet skrives fortsatt på norsk)
 - **Målgruppe:** gamere 13–35, internasjonalt, ser Shorts uten lyd
 - **Stil:** neon, natt, Miami/Florida-stemning, sportsbiler, palmer, raske kutt, store tekster
-- **Stemme:** energisk engelsk stemme fra Artlist – velg én ved første kjøring og skriv navnet her
+- **Stemme:** Hype (Artlist, amerikansk engelsk, energisk). Sett opp 8 % i tempo med ffmpeg (atempo=1.08).
 - **Lengde:** 25–40 sek
-- **Style kit i Artlist:** "Neon Vice" – opprettes ved første kjøring
+- **Style kit i Artlist:** "Neon Vice" (opprettet, med fargepalett og stilregler)
 - **Kredittbudsjett per klipp:** 1000
 - **Ting boten ALDRI skal lage:**
   - Kopier av Rockstar-figurer (Lucia, Jason osv.), GTA- eller Rockstar-logo, eller AI-video som ser ut som ekte gameplay

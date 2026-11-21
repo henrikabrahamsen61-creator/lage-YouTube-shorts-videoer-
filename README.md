@@ -34,7 +34,7 @@ tillatelser/           ← skriftlige tillatelser for gameplay fra andre + mal f
 - **Faste figurer.** Har kanalen en karakter/maskot, lagrer vi den som referanse så den ser lik ut i alle klipp.
 - **Korte scener.** 2–4 sek per klipp holder tempoet oppe i Shorts.
 - **Teksting alltid på.** De fleste ser Shorts uten lyd.
-- **Lisens:** Musikk og SFX fra Artlist-katalogen er dekket av Artlist-lisensen din for YouTube.
+- **Lisens:** Planen vår (AI Suite) dekker AI-generert innhold. Musikk fra katalogen lastes ned med vannmerke, så vi lager egen AI-musikk.
 
 ## Store filer
 

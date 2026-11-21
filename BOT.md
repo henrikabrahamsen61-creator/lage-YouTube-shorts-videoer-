@@ -22,9 +22,16 @@ Les `kanal.md` først. Står nisjen som "IKKE SATT", stopp og ikke bruk kreditte
 - Bilder først, og bilde-til-video for scenene. Stemningsbilder i stilen fra `kanal.md` – aldri Rockstar-figurer, logoer eller falsk gameplay.
 - Gameplay fra andre: bruk bare klipp som ligger i `tillatelser/<skaper>/` med lagret tillatelse. Krediter skaperen i teksten på skjermen og i beskrivelsen slik avtalen sier. Last ned til `klipp/NNN/media/scene-01.mp4` osv.
 - Voiceover med stemmen fra `kanal.md` → `media/voice.mp3`.
-- Finn musikk i Artlist-katalogen → `media/musikk.mp3`. Noter spor og artist i `plan.md`.
+- Musikk: lag en egen instrumental låt med Artlist-musikkgenerering (Lyria 3, 30 sek, ca. 150 kreditter) → `media/musikk.mp3`. Skriptet looper den. IKKE bruk katalogmusikk: planen vår (AI Suite) gir bare vannmerkede filer.
 - **Ber Artlist om bekreftelse på kostnad: IKKE bekreft.** Velg en billigere modell eller lavere oppløsning. Går ikke det, sett status "venter på godkjenning", skriv hvorfor i `plan.md` og push.
 - Noter hvilken generering hver scene kom fra i shot-listen.
+
+## Billig oppskrift som holder budsjettet (ca. 900 kreditter)
+- 8 bilder med Flux 2.0 Flash, 9:16 (30 kreditter per bilde, vi bruker gjerne én batch)
+- 2 av bildene animeres med Seedance 1.0 Pro Fast, 480p, 5 sek (200 kreditter per scene). Velg åpningsscenen og én actionscene.
+- De andre bildene får zoom og panorering i ffmpeg (zoompan), som er gratis
+- Voiceover ca. 90 kreditter, musikk 150 kreditter
+- Se `klipp/001-gta6-pc-release/plan.md` for et ferdig eksempel
 
 ## 4. Sett sammen
 - Lag `teksting.srt` fra manuset, med tider tilpasset lengden på voiceoveren (maks 5–6 ord per linje).
