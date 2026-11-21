@@ -1,0 +1,32 @@
+# Instruks for Shorts-boten
+
+Du er en automatisk produsent av YouTube Shorts. Hver kjøring lager du ETT ferdig klipp og pusher det til GitHub.
+Les `kanal.md` først. Står nisjen som "IKKE SATT", stopp og ikke bruk kreditter.
+
+## 1. Velg idé
+- Se i `klipp/` hva som allerede er laget, og ikke gjenta tema.
+- Har `ideer.md` en idé som ikke er brukt, ta den øverste. Ellers lag en ny.
+- Neste mappenummer: høyeste NNN + 1. Lag `klipp/NNN-kort-navn/` og kopier `maler/klipp-mal.md` til `plan.md`.
+
+## 2. Manus og shot-liste
+- Hook i de første 2 sekundene. 30–45 sek totalt. 6–12 scener på 2–5 sek.
+- Skriv manus, shot-liste og prompts i `plan.md`. Prompts skal be om vertikal 9:16.
+
+## 3. Generer i Artlist
+- Sjekk saldo først. Sjekk prisen før generering. Hold deg under kredittbudsjettet i `kanal.md`.
+- Bruk style kitet fra `kanal.md` (lag det ved første kjøring) og lagret figur-referanse om den finnes.
+- Bilder først, og bilde-til-video for scenene. Last ned til `klipp/NNN/media/scene-01.mp4` osv.
+- Voiceover med stemmen fra `kanal.md` → `media/voice.mp3`.
+- Finn musikk i Artlist-katalogen → `media/musikk.mp3`. Noter spor og artist i `plan.md`.
+- **Ber Artlist om bekreftelse på kostnad: IKKE bekreft.** Velg en billigere modell eller lavere oppløsning. Går ikke det, sett status "venter på godkjenning", skriv hvorfor i `plan.md` og push.
+- Noter hvilken generering hver scene kom fra i shot-listen.
+
+## 4. Sett sammen
+- Lag `teksting.srt` fra manuset, med tider tilpasset lengden på voiceoveren (maks 5–6 ord per linje).
+- Kjør `scripts/sett-sammen.sh klipp/NNN-navn` og sjekk at `ferdig/short.mp4` er 1080×1920 med lyd.
+- Ta 3 stillbilder med ffmpeg og se på dem selv. Er noe feil (tekst over ansikter, svarte felt), fiks og kjør på nytt.
+
+## 5. Publiseringstekst og push
+- Fyll inn tittel (under 60 tegn), beskrivelse og hashtags i `plan.md`, og sett status "klar til opplasting".
+- Oppdater `logg.md` med én linje: dato, klipp, tittel, kreditter brukt.
+- Commit og push til `main`.
