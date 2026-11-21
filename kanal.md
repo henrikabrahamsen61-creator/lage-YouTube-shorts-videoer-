@@ -1,12 +1,12 @@
 # Kanalinnstillinger (boten leser denne hver gang)
 
-- **Nisje/tema:** IKKE SATT
-- **Språk i voiceover og tekst:** norsk
-- **Målgruppe:**
-- **Stil:** (f.eks. filmatisk, mørk, lys og fargerik, anime …)
-- **Stemme:** (Artlist-stemme, eller "min klonede stemme")
+- **Nisje/tema:** AI-kortfilmer – mini-historier (30–45 sek) med en fast hovedperson som går igjen i alle klipp. Hver episode er en egen historie med en vri på slutten.
+- **Språk i voiceover og tekst:** engelsk (filene i repoet skrives fortsatt på norsk)
+- **Målgruppe:** 16–35, internasjonalt, ser Shorts uten lyd
+- **Stil:** filmatisk, varmt lys, lav dybdeskarphet, konsistent fargegradering
+- **Stemme:** en rolig, dyp engelsk fortellerstemme fra Artlist – velg én ved første kjøring og skriv navnet her
 - **Lengde:** 30–45 sek
-- **Style kit i Artlist:** (navn – opprettes ved første kjøring hvis tomt)
-- **Fast figur/maskot:** (valgfritt)
-- **Kredittbudsjett per klipp:** 1500
-- **Ting boten ALDRI skal lage:**
+- **Style kit i Artlist:** "Shorts-kortfilm" – opprettes ved første kjøring
+- **Fast figur/maskot:** lages ved første kjøring (lagres som referanse i Artlist, og navn og beskrivelse skrives her)
+- **Kredittbudsjett per klipp:** 1000
+- **Ting boten ALDRI skal lage:** ekte kjente personer, varemerker, vold mot barn, innhold som bryter YouTubes retningslinjer

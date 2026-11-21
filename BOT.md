@@ -30,3 +30,9 @@ Les `kanal.md` først. Står nisjen som "IKKE SATT", stopp og ikke bruk kreditte
 - Fyll inn tittel (under 60 tegn), beskrivelse og hashtags i `plan.md`, og sett status "klar til opplasting".
 - Oppdater `logg.md` med én linje: dato, klipp, tittel, kreditter brukt.
 - Commit og push til `main`.
+
+## Første kjøring (bare når figur eller style kit mangler i kanal.md)
+- Lag style kitet "Shorts-kortfilm" i Artlist: fargepalett, stilregler og 2–3 referansebilder.
+- Design hovedpersonen: generer et portrett og et helfigurbilde, og lagre begge som referanse i Artlist.
+- Velg fortellerstemme.
+- Skriv navn på figur, stemme og kit inn i `kanal.md`. Lag deretter episode 001 som vanlig.
