@@ -1,4 +1,4 @@
-# YouTube Shorts med Artlist + Claude
+# GTA 6 Shorts med Artlist + Claude
 
 Her ligger alt vi lager: idéer, manus, prompts, valg av musikk og lyd, og ferdige klipp.
 
@@ -24,6 +24,7 @@ klipp/NNN-navn/        ← ett klipp per mappe
   media/               ← nedlastede filer (ikke i git, se under)
   ferdig/              ← ferdig short
 scripts/sett-sammen.sh ← ffmpeg-skript for å lage ferdig video
+tillatelser/           ← skriftlige tillatelser for gameplay fra andre + mal for forespørsel
 ```
 
 ## Tips for best resultat

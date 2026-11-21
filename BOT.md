@@ -8,6 +8,10 @@ Les `kanal.md` først. Står nisjen som "IKKE SATT", stopp og ikke bruk kreditte
 - Har `ideer.md` en idé som ikke er brukt, ta den øverste. Ellers lag en ny.
 - Neste mappenummer: høyeste NNN + 1. Lag `klipp/NNN-kort-navn/` og kopier `maler/klipp-mal.md` til `plan.md`.
 
+## 1b. Fakta (GTA 6)
+- Søk på nettet etter ferske nyheter og tips. Bruk bare påstander du finner i minst én pålitelig kilde (IGN, Kotaku, Polygon, Rockstar Newswire, store aviser).
+- Skriv kildene i `plan.md`. Rykter skal sies som rykter ("reportedly", "rumored").
+
 ## 2. Manus og shot-liste
 - Hook i de første 2 sekundene. 30–45 sek totalt. 6–12 scener på 2–5 sek.
 - Skriv manus, shot-liste og prompts i `plan.md`. Prompts skal be om vertikal 9:16.
@@ -15,7 +19,8 @@ Les `kanal.md` først. Står nisjen som "IKKE SATT", stopp og ikke bruk kreditte
 ## 3. Generer i Artlist
 - Sjekk saldo først. Sjekk prisen før generering. Hold deg under kredittbudsjettet i `kanal.md`.
 - Bruk style kitet fra `kanal.md` (lag det ved første kjøring) og lagret figur-referanse om den finnes.
-- Bilder først, og bilde-til-video for scenene. Last ned til `klipp/NNN/media/scene-01.mp4` osv.
+- Bilder først, og bilde-til-video for scenene. Stemningsbilder i stilen fra `kanal.md` – aldri Rockstar-figurer, logoer eller falsk gameplay.
+- Gameplay fra andre: bruk bare klipp som ligger i `tillatelser/<skaper>/` med lagret tillatelse. Krediter skaperen i teksten på skjermen og i beskrivelsen slik avtalen sier. Last ned til `klipp/NNN/media/scene-01.mp4` osv.
 - Voiceover med stemmen fra `kanal.md` → `media/voice.mp3`.
 - Finn musikk i Artlist-katalogen → `media/musikk.mp3`. Noter spor og artist i `plan.md`.
 - **Ber Artlist om bekreftelse på kostnad: IKKE bekreft.** Velg en billigere modell eller lavere oppløsning. Går ikke det, sett status "venter på godkjenning", skriv hvorfor i `plan.md` og push.
@@ -31,8 +36,6 @@ Les `kanal.md` først. Står nisjen som "IKKE SATT", stopp og ikke bruk kreditte
 - Oppdater `logg.md` med én linje: dato, klipp, tittel, kreditter brukt.
 - Commit og push til `main`.
 
-## Første kjøring (bare når figur eller style kit mangler i kanal.md)
-- Lag style kitet "Shorts-kortfilm" i Artlist: fargepalett, stilregler og 2–3 referansebilder.
-- Design hovedpersonen: generer et portrett og et helfigurbilde, og lagre begge som referanse i Artlist.
-- Velg fortellerstemme.
-- Skriv navn på figur, stemme og kit inn i `kanal.md`. Lag deretter episode 001 som vanlig.
+## Første kjøring (bare når stemme eller style kit mangler i kanal.md)
+- Lag style kitet "Neon Vice" i Artlist: fargepalett (neonrosa, turkis, solnedgangsoransje, nattblå), stilregler og 2–3 referansebilder.
+- Velg stemme og skriv navnet inn i `kanal.md`. Lag deretter klipp 001 som vanlig.
