@@ -1,6 +1,8 @@
 # YouTube-innsikt – ViceHex Dispatch
 
-Hentet: 22. november 2026 kl. 04.03 norsk tid (03.03 UTC).
+Kanaltall kontrollert: 22. november 2026 kl. 05.02 norsk tid (04.02 UTC).
+
+Endring siden kl. 04.03: 0 visninger, 0 abonnenter og 0 videoer i de rapporterte kanaltallene. Dette er forskjell mellom avlesninger, ikke en Studio-timerapport.
 
 ## Løpende kanaltall
 
@@ -9,6 +11,8 @@ Hentet: 22. november 2026 kl. 04.03 norsk tid (03.03 UTC).
 |427|3|5|
 
 ## Forsinket Studio-rapport
+
+Sist hentet 22. november kl. 04.03 norsk tid. Ny henting blokkert av kredittgrensen; målingene er beholdt.
 
 Periode: 13.–21. november 2026, hele rapporteringsdager. Ingen timerapport. Manglende rader betyr ikke null aktivitet.
 
@@ -20,7 +24,7 @@ Periode: 13.–21. november 2026, hele rapporteringsdager. Ingen timerapport. Ma
 |[GTA 6 Is Out… But When Is It Coming to PC?](https://www.youtube.com/watch?v=9O3xwBrGwT4)|Ikke tilgjengelig|Ikke tilgjengelig|Ikke tilgjengelig|Ikke tilgjengelig|Ikke tilgjengelig|Ikke tilgjengelig|Ikke tilgjengelig|Ikke tilgjengelig|Ikke tilgjengelig|
 |[3 GTA 6 Mistakes Everyone Makes](https://www.youtube.com/watch?v=n1VS7_aPlBA)|Ikke tilgjengelig|Ikke tilgjengelig|Ikke tilgjengelig|Ikke tilgjengelig|Ikke tilgjengelig|Ikke tilgjengelig|Ikke tilgjengelig|Ikke tilgjengelig|Ikke tilgjengelig|
 
-Stayed-to-watch og swiped-away: ikke tilgjengelig. Ingen tidligere måling å sammenligne med.
+Stayed-to-watch og swiped-away: ikke tilgjengelig. Ingen ny Studio-måling å sammenligne med.
 
 ## Begrensninger
 
