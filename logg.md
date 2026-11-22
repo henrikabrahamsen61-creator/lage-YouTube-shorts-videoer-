@@ -5,3 +5,4 @@
 | 2026-11-21 | 001-gta6-pc-release | GTA 6 Is Out… But When Is It Coming to PC? | 883 | 951 (22.11) | 4 |
 | 2026-11-22 | 002-gta6-mistakes | 3 GTA 6 Mistakes Everyone Makes | 871 | 4 (22.11) | 0 |
 | 2026-11-22 | 003-gta6-vs-gta5 | GTA 6 vs GTA 5: 3 Confirmed Differences | 785 | | |
+| 2026-11-22 | 004-gta6-online | Where Is GTA 6 Online? Here's What We Know | 729 | | |

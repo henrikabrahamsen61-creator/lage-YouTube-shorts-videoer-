@@ -8,6 +8,7 @@ Boten leser denne filen før den lager et nytt klipp, og bruker tallene til å j
 | 001-gta6-pc-release | 2026-11-21 | 951 (22.11 kl. 12) | 50,2 % | ca. 13 sek av 41 (31 %) | 4 | 25 likes (2,6 %), 3,4 t seertid, all trafikk fra Shorts-feeden. Rolig åpning uten hook-tekst |
 | 002-gta6-mistakes | 2026-11-22 kl. 03 | 4 (22.11 kl. 12) | 75 % (3 av 4, for lite til å si noe) | 0,0 t | 0 | YouTube har nesten ikke vist det ennå. Sjekk igjen etter 48 t |
 | 003-gta6-vs-gta5 | | | | | | 24 sek, "confirmed"-vinkel |
+| 004-gta6-online | | | | | | Samme stil som 001, 27 sek |
 
 ### Eldre videoer på kanalen (Studio 13.–21. nov., fra innsikt/latest.json)
 | Video | Visninger | Snitt visningstid | Sett % | Abonnenter |
