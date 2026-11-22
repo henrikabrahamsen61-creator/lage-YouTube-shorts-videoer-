@@ -10,6 +10,11 @@ Les `kanal.md` først. Står nisjen som "IKKE SATT", stopp og ikke bruk kreditte
 - Lag alltid et nytt klipp ved den daglige kjøringen kl. 10:47. Mangler tallene for det forrige klippet, bruker du tallene for de eldre klippene og skriver i `plan.md` hvilke tall som manglet.
 - Har du tallene: skriv 2–3 linjer under "Lærdom" i `plan.md` for det nye klippet om hva du endrer basert på dem. Velg tema som ligner klippene med flest abonnenter per visning.
 
+## 0b. Hva som virker (fra statistikken)
+- **Velg helst et nyhetsspørsmål om GTA 6** som folk søker på ("When is…", "Where is…", "Is GTA 6 coming to…?"). De har fått 5–40 ganger flere visninger enn tips- og sammenligningsklipp.
+- **Første setning: det mest overraskende først**, ikke noe alle vet. Ikke "GTA 6 is out", men for eksempel "You won't play GTA 6 Online until 2027."
+- **Tittelen skal være spørsmålet slik folk søker det.**
+
 ## 1. Velg idé
 - Se i `klipp/` hva som allerede er laget, og ikke gjenta tema.
 - Har `ideer.md` en idé som ikke er brukt, ta den øverste. Ellers lag en ny.
