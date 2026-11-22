@@ -35,3 +35,25 @@ Boten leser denne filen før den lager et nytt klipp, og bruker tallene til å j
 - **Nyhetsspørsmål om GTA 6 får mest visninger.** 001 ("When is it coming to PC?") og 004 ("Where is GTA 6 Online?") er de eneste som tok av. Tips- og sammenligningsklipp (002) fikk nesten ingen visninger.
 - **Folk forsvinner tidlig.** Snitt visningstid er 7–13 sek. Første setning må være noe overraskende, ikke noe alle vet ("GTA 6 is out").
 - **Noen finner klippene via søk.** 004 fikk 5 visninger fra YouTube-søk. Titler bør være det folk faktisk søker på.
+
+## YouTube Studio-oversikt (lagt inn 22.11 kveld, fra brukeren)
+Periode: Studio sin standardperiode. Merk: fra 16.11.2026 teller YouTube en Shorts-visning hver gang klippet starter eller spilles på nytt.
+
+| Hele kanalen | |
+|---|---|
+| Visninger | 1 329 |
+| Seertid | 3,83 t |
+| Snitt visningstid | 0:18 |
+| Nye abonnenter | +3 |
+| Visninger av miniatyrbilde | 480 |
+| Klikkrate (CTR) | 1,67 % |
+
+| Video | Visninger | Seertid | Snitt visningstid |
+|---|---:|---:|---:|
+| 001 GTA 6 Is Out… But When Is It Coming to PC? (42 sek) | 891 | 3,16 t | **0:20** |
+| GTA 6 Is More Than Vice City — Here's What's Confirmed | 232 | 0,46 t | 0:14 |
+| GTA 6: Two Characters Does Not Confirm Co-op | 127 | 0,12 t | 0:11 |
+
+**Rettelse:** Studio oppgir 20 sek snitt for 001, ikke ca. 13 sek som jeg regnet ut tidligere. Det betyr at folk ble lenger enn antatt, og at et 42-sekunders klipp ga mest seertid totalt.
+
+**Lærdom:** Klipp som svarer skikkelig på et konkret spørsmål folk diskuterer (plattform, dato) gjør det best. Det er ikke nødvendig å kutte under 25 sek. **Nytt mål: 25–40 sek**, med et tydelig svar og nok innhold.
