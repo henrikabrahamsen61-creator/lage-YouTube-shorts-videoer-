@@ -1,0 +1,209 @@
+{
+  "retrieved_at": "2026-11-22T03:03:04Z",
+  "channel": {
+    "id": "UCSkrhplI0A121BXm6pd4Q6g",
+    "handle": "@vicehexdispatch",
+    "subscribers": 3,
+    "public_lifetime_views": 427,
+    "public_video_count": 5
+  },
+  "studio": {
+    "start_date": "2026-11-13",
+    "end_date": "2026-11-21",
+    "granularity": "whole_reporting_days",
+    "raw_report": {
+      "channelId": "UCSkrhplI0A121BXm6pd4Q6g",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-21",
+      "columnHeaders": [
+        {
+          "name": "video",
+          "dataType": "STRING",
+          "columnType": "DIMENSION"
+        },
+        {
+          "name": "views",
+          "dataType": "INTEGER",
+          "columnType": "METRIC"
+        },
+        {
+          "name": "engagedViews",
+          "dataType": "INTEGER",
+          "columnType": "METRIC"
+        },
+        {
+          "name": "estimatedMinutesWatched",
+          "dataType": "INTEGER",
+          "columnType": "METRIC"
+        },
+        {
+          "name": "averageViewDuration",
+          "dataType": "INTEGER",
+          "columnType": "METRIC"
+        },
+        {
+          "name": "averageViewPercentage",
+          "dataType": "FLOAT",
+          "columnType": "METRIC"
+        },
+        {
+          "name": "likes",
+          "dataType": "INTEGER",
+          "columnType": "METRIC"
+        },
+        {
+          "name": "comments",
+          "dataType": "INTEGER",
+          "columnType": "METRIC"
+        },
+        {
+          "name": "shares",
+          "dataType": "INTEGER",
+          "columnType": "METRIC"
+        },
+        {
+          "name": "subscribersGained",
+          "dataType": "INTEGER",
+          "columnType": "METRIC"
+        },
+        {
+          "name": "subscribersLost",
+          "dataType": "INTEGER",
+          "columnType": "METRIC"
+        }
+      ],
+      "rows": [
+        [
+          "IkZDhBa5N3E",
+          228,
+          97,
+          26,
+          14,
+          47.89,
+          3,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "x6WwAUO9uJ0",
+          125,
+          24,
+          6,
+          11,
+          59.03,
+          3,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          "nmf0m03rCkg",
+          74,
+          10,
+          3,
+          9,
+          55.34,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    }
+  },
+  "videos": [
+    {
+      "video_id": "IkZDhBa5N3E",
+      "title": "GTA 6 Is More Than Vice City — Here’s What’s Confirmed",
+      "url": "https://www.youtube.com/watch?v=IkZDhBa5N3E",
+      "studio_metrics": {
+        "views": 228,
+        "engagedViews": 97,
+        "estimatedMinutesWatched": 26,
+        "averageViewDuration": 14,
+        "averageViewPercentage": 47.89,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "subscribersGained": 0,
+        "subscribersLost": 0
+      },
+      "stayed_to_watch_percentage": null,
+      "swiped_away_percentage": null
+    },
+    {
+      "video_id": "x6WwAUO9uJ0",
+      "title": "GTA 6: Two Characters Does Not Confirm Co-op",
+      "url": "https://www.youtube.com/watch?v=x6WwAUO9uJ0",
+      "studio_metrics": {
+        "views": 125,
+        "engagedViews": 24,
+        "estimatedMinutesWatched": 6,
+        "averageViewDuration": 11,
+        "averageViewPercentage": 59.03,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "subscribersGained": 1,
+        "subscribersLost": 0
+      },
+      "stayed_to_watch_percentage": null,
+      "swiped_away_percentage": null
+    },
+    {
+      "video_id": "nmf0m03rCkg",
+      "title": "GTA 6 Map Size: What Screenshots Cannot Prove",
+      "url": "https://www.youtube.com/watch?v=nmf0m03rCkg",
+      "studio_metrics": {
+        "views": 74,
+        "engagedViews": 10,
+        "estimatedMinutesWatched": 3,
+        "averageViewDuration": 9,
+        "averageViewPercentage": 55.34,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "subscribersGained": 0,
+        "subscribersLost": 0
+      },
+      "stayed_to_watch_percentage": null,
+      "swiped_away_percentage": null
+    },
+    {
+      "video_id": "9O3xwBrGwT4",
+      "title": "GTA 6 Is Out… But When Is It Coming to PC?",
+      "url": "https://www.youtube.com/watch?v=9O3xwBrGwT4",
+      "studio_metrics": null,
+      "stayed_to_watch_percentage": null,
+      "swiped_away_percentage": null
+    },
+    {
+      "video_id": "n1VS7_aPlBA",
+      "title": "3 GTA 6 Mistakes Everyone Makes",
+      "url": "https://www.youtube.com/watch?v=n1VS7_aPlBA",
+      "studio_metrics": null,
+      "stayed_to_watch_percentage": null,
+      "swiped_away_percentage": null
+    }
+  ],
+  "previous_measurement": null,
+  "errors": [
+    {
+      "operation": "user_videos",
+      "message": "Utilstrekkelige vidIQ-kreditter: 2 igjen, krever 5. Nye opplastinger og løpende videotall kunne ikke oppdateres."
+    },
+    {
+      "operation": "shorts_stayed_to_watch",
+      "message": "Ikke hentet på grunn av kredittgrensen. Ikke beregnet fra andre tall."
+    }
+  ],
+  "notes": [
+    "Kanaltall er løpende; Studio-rapporten kan være forsinket.",
+    "Videotitler og lenker er fra tidligere bekreftet publisering; ikke en fullstendig ny opplastingsliste.",
+    "Ingen tidligere rapport finnes; endringer siden forrige måling er ikke tilgjengelige."
+  ]
+}
