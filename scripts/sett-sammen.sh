@@ -8,6 +8,7 @@
 #   media/voice.mp3       (valgfri)
 #   media/musikk.mp3      (valgfri, dempes under stemmen)
 #   teksting.srt          (valgfri, brennes inn)
+#   hook.txt              (valgfri, stor tekst øverst de første 3 sek, maks ca. 20 tegn per linje)
 # Resultat: ferdig/short.mp4
 set -euo pipefail
 
@@ -54,6 +55,10 @@ fi
 VF="null"
 if [ -f "$DIR/teksting.srt" ]; then
   VF="subtitles='$DIR/teksting.srt':force_style='FontName=DejaVu Sans,FontSize=16,Bold=1,PrimaryColour=&H00FFFFFF,OutlineColour=&H00000000,BorderStyle=1,Outline=3,Shadow=0,Alignment=2,MarginV=90'"
+fi
+# Hook-tekst: gul, stor, øverst, synlig fra første bilde i 3 sek
+if [ -f "$DIR/hook.txt" ]; then
+  VF="$VF,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:textfile='$DIR/hook.txt':fontsize=92:fontcolor=0xFFE600:borderw=8:bordercolor=black:line_spacing=12:x=(w-text_w)/2:y=230:enable='lt(t,3)'"
 fi
 
 if [ -n "$FILTER" ]; then

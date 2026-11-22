@@ -12,8 +12,17 @@ Les `kanal.md` først. Står nisjen som "IKKE SATT", stopp og ikke bruk kreditte
 - Søk på nettet etter ferske nyheter og tips. Bruk bare påstander du finner i minst én pålitelig kilde (IGN, Kotaku, Polygon, Rockstar Newswire, store aviser).
 - Skriv kildene i `plan.md`. Rykter skal sies som rykter ("reportedly", "rumored").
 
+## 2a. Hooken (viktigst!)
+Klipp 001 hadde ca. 50 % "viewed vs. swiped away". Målet er over 70 %. Regler:
+- **Første bilde = mest spennende bilde.** Start med AI-videoen med mest bevegelse (bil, eksplosjon, fart). Aldri et rolig eller mørkt bilde først.
+- **Tekst fra første bilde:** skriv 2–5 ord i `hook.txt` (maks ca. 12 tegn per linje). Den vises stor og gul øverst de første 3 sek. Eksempler: "NO GTA 6 / ON PC?!", "DON'T SKIP / THIS IN GTA 6".
+- **Første setning under 1,5 sek og uten oppvarming.** Start midt i saken med et sjokk, et spørsmål eller et løfte: "Rockstar is hiding something in GTA 6." – ikke "GTA 6 is finally here."
+- **Nytt bilde hvert 2–3 sek** de første 10 sekundene.
+- **Lengde 25–35 sek.** Kortere klipp blir sett ferdig oftere, og det hjelper i algoritmen.
+- **Fortell utbyttet først:** si hva seeren får ("3 secrets", "the release date") i første setning, og lever det helt mot slutten.
+
 ## 2. Manus og shot-liste
-- Hook i de første 2 sekundene. 30–45 sek totalt. 6–12 scener på 2–5 sek.
+- Følg reglene i 2a. 25–35 sek totalt, 8–12 scener på 2–4 sek.
 - Skriv manus, shot-liste og prompts i `plan.md`. Prompts skal be om vertikal 9:16.
 
 ## 3. Generer i Artlist
@@ -28,7 +37,7 @@ Les `kanal.md` først. Står nisjen som "IKKE SATT", stopp og ikke bruk kreditte
 
 ## Billig oppskrift som holder budsjettet (ca. 900 kreditter)
 - 8 bilder med Flux 2.0 Flash, 9:16 (30 kreditter per bilde, vi bruker gjerne én batch)
-- 2 av bildene animeres med Seedance 1.0 Pro Fast, 480p, 5 sek (200 kreditter per scene). Velg åpningsscenen og én actionscene.
+- 2 av bildene animeres med Seedance 1.0 Pro Fast, 480p, 5 sek (200 kreditter per scene). Den ene SKAL være åpningsscenen, og den skal ha mye bevegelse.
 - De andre bildene får zoom og panorering i ffmpeg (zoompan), som er gratis
 - Voiceover ca. 90 kreditter, musikk 150 kreditter
 - Se `klipp/001-gta6-pc-release/plan.md` for et ferdig eksempel
