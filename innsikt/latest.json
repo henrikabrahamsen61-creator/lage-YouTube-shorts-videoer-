@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-22T03:03:04Z",
+  "retrieved_at": "2026-11-22T04:02:32Z",
   "channel": {
     "id": "UCSkrhplI0A121BXm6pd4Q6g",
     "handle": "@vicehexdispatch",
@@ -113,7 +113,10 @@
           0
         ]
       ]
-    }
+    },
+    "retrieved_at": "2026-11-22T03:03:04Z",
+    "last_refresh_attempt_at": "2026-11-22T04:02:32Z",
+    "refresh_status": "blocked_insufficient_credits"
   },
   "videos": [
     {
@@ -190,20 +193,42 @@
       "swiped_away_percentage": null
     }
   ],
-  "previous_measurement": null,
+  "previous_measurement": {
+    "retrieved_at": "2026-11-22T03:03:04Z",
+    "channel": {
+      "id": "UCSkrhplI0A121BXm6pd4Q6g",
+      "handle": "@vicehexdispatch",
+      "subscribers": 3,
+      "public_lifetime_views": 427,
+      "public_video_count": 5
+    }
+  },
   "errors": [
     {
       "operation": "user_videos",
-      "message": "Utilstrekkelige vidIQ-kreditter: 2 igjen, krever 5. Nye opplastinger og løpende videotall kunne ikke oppdateres."
+      "message": "Utilstrekkelige vidIQ-kreditter: 2 igjen, krever 5. Nye opplastinger og løpende videotall kunne ikke oppdateres.",
+      "at": "2026-11-22T04:02:32Z"
     },
     {
       "operation": "shorts_stayed_to_watch",
-      "message": "Ikke hentet på grunn av kredittgrensen. Ikke beregnet fra andre tall."
+      "message": "Ikke hentet på grunn av kredittgrensen. Ikke beregnet fra andre tall.",
+      "at": "2026-11-22T04:02:32Z"
+    },
+    {
+      "operation": "studio_refresh",
+      "at": "2026-11-22T04:02:32Z",
+      "message": "Kun 2 vidIQ-kreditter tilgjengelig, rapport krever 5. Sist vellykkede Studio-data beholdt."
     }
   ],
   "notes": [
     "Kanaltall er løpende; Studio-rapporten kan være forsinket.",
     "Videotitler og lenker er fra tidligere bekreftet publisering; ikke en fullstendig ny opplastingsliste.",
-    "Ingen tidligere rapport finnes; endringer siden forrige måling er ikke tilgjengelige."
-  ]
+    "Kanaltall uendret siden forrige avlesning. Studio-data er ikke hentet på nytt."
+  ],
+  "channel_retrieved_at": "2026-11-22T04:02:32Z",
+  "channel_change_since_previous": {
+    "public_lifetime_views": 0,
+    "subscribers": 0,
+    "public_video_count": 0
+  }
 }
