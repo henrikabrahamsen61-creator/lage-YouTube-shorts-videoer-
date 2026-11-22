@@ -63,3 +63,10 @@ Klipp 001 hadde ca. 50 % "viewed vs. swiped away". Målet er over 70 %. Regler:
 ## Første kjøring (bare når stemme eller style kit mangler i kanal.md)
 - Lag style kitet "Neon Vice" i Artlist: fargepalett (neonrosa, turkis, solnedgangsoransje, nattblå), stilregler og 2–3 referansebilder.
 - Velg stemme og skriv navnet inn i `kanal.md`. Lag deretter klipp 001 som vanlig.
+
+## 6. Melding til brukeren (halvautomatisk opplasting)
+Brukeren laster opp selv med YouTube-appen på mobilen. Etter push sender du den ferdige videoen til brukeren og skriver en kort melding på norsk med:
+- **Tittel** i en egen kodeblokk, så den er lett å kopiere
+- **Beskrivelse og hashtags** i en egen kodeblokk
+- En påminnelse: "Huk av for endret/syntetisk innhold"
+- Kreditter brukt, og hva du endret basert på statistikken (1–2 linjer)

@@ -12,7 +12,7 @@ Her ligger alt vi lager: idéer, manus, prompts, valg av musikk og lyd, og ferdi
 | 4. Generering | Bilder/video i Artlist. Video lages først som 480p-utkast, så rendres de beste i 1080p (sparer kreditter) | Claude via Artlist |
 | 5. Lyd | Voiceover (Artlist-stemme eller din klonede stemme), musikk fra Artlist-katalogen, lydeffekter | Claude via Artlist |
 | 6. Sammensetting | `scripts/sett-sammen.sh` limer scener + voice + musikk + teksting til 1080×1920 | Claude |
-| 7. Publisering | Tittel, beskrivelse, hashtags ligger i `plan.md` | Du laster opp |
+| 7. Publisering | Boten sender videoen med tittel, beskrivelse og hashtags klare til å kopiere. Du laster opp med YouTube-appen (ca. 1 min) | Du |
 
 ## Mappestruktur
 
