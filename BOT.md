@@ -3,6 +3,11 @@
 Du er en automatisk produsent av YouTube Shorts. Hver kjøring lager du ETT ferdig klipp og pusher det til GitHub.
 Les `kanal.md` først. Står nisjen som "IKKE SATT", stopp og ikke bruk kreditter.
 
+## 0. Sjekk statistikken FØRST
+- Les `statistikk.md` før du gjør noe annet.
+- Mangler tallene for det forrige publiserte klippet (visninger og "viewed vs. swiped away"), skal du **ikke lage et nytt klipp**. Skriv i stedet en kort melding om hvilke tall som mangler, og stopp. Du bruker da ingen kreditter.
+- Har du tallene: skriv 2–3 linjer under "Lærdom" i `plan.md` for det nye klippet om hva du endrer basert på dem. Velg tema som ligner klippene med flest abonnenter per visning.
+
 ## 1. Velg idé
 - Se i `klipp/` hva som allerede er laget, og ikke gjenta tema.
 - Har `ideer.md` en idé som ikke er brukt, ta den øverste. Ellers lag en ny.
