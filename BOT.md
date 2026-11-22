@@ -40,7 +40,8 @@ Les `kanal.md` først. Står nisjen som "IKKE SATT", stopp og ikke bruk kreditte
 
 ## 5. Publiseringstekst og push
 - Fyll inn tittel (under 60 tegn), beskrivelse og hashtags i `plan.md`, og sett status "klar til opplasting".
-- Oppdater `logg.md` med én linje: dato, klipp, tittel, kreditter brukt.
+- Oppdater `logg.md` med én linje: dato, klipp, tittel, kreditter brukt (la Visninger stå tom, den fyller vi inn senere).
+- Se på kolonnen Visninger i `logg.md`. Lag flere klipp som ligner dem som gjør det best.
 - Commit og push til `main`.
 
 ## Første kjøring (bare når stemme eller style kit mangler i kanal.md)
