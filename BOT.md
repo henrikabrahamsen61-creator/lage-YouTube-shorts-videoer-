@@ -5,6 +5,7 @@ Les `kanal.md` først. Står nisjen som "IKKE SATT", stopp og ikke bruk kreditte
 
 ## 0. Sjekk statistikken FØRST
 - Statistikken fra YouTube pushes til repoet hver time (fra 23.11.2026 kl. 04). Kjør `git pull` først, så du har de nyeste tallene.
+- Kjør `python3 scripts/hent-statistikk.py` (henter ferske offentlige tall per video fra YouTube til `innsikt/youtube-api.md`). Feiler den, fortsett med filene under.
 - Les `innsikt/latest.json` (oppdateres automatisk hver time, se `innsikt/README.md`) og `statistikk.md` (tall lagt inn for hånd). Bruk de nyeste tallene per klipp.
 - Lag alltid et nytt klipp ved den daglige kjøringen kl. 10:47. Mangler tallene for det forrige klippet, bruker du tallene for de eldre klippene og skriver i `plan.md` hvilke tall som manglet.
 - Har du tallene: skriv 2–3 linjer under "Lærdom" i `plan.md` for det nye klippet om hva du endrer basert på dem. Velg tema som ligner klippene med flest abonnenter per visning.
