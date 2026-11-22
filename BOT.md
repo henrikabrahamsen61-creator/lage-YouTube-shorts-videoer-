@@ -55,6 +55,7 @@ Klipp 001 hadde ca. 50 % "viewed vs. swiped away". Målet er over 70 %. Regler:
 - Se `klipp/001-gta6-pc-release/plan.md` for et ferdig eksempel
 
 ## 4. Sett sammen
+- Enklest: skriv `bygg.json` (manus, hook, scener) og kjør `python3 scripts/bygg-klipp.py klipp/NNN-navn`. Det lager scener, timer undertekstene etter pausene i stemmen og kjører sett-sammen.sh. Se klipp 005–009 for eksempler.
 - Lag `teksting.srt` fra manuset, med tider tilpasset lengden på voiceoveren (maks 5–6 ord per linje).
 - Kjør `scripts/sett-sammen.sh klipp/NNN-navn` og sjekk at `ferdig/short.mp4` er 1080×1920 med lyd.
 - Ta 3 stillbilder med ffmpeg og se på dem selv. Er noe feil (tekst over ansikter, svarte felt), fiks og kjør på nytt.

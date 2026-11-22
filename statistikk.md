@@ -10,6 +10,12 @@ Boten leser denne filen før den lager et nytt klipp, og bruker tallene til å j
 | 003-gta6-vs-gta5 | | | | | | 24 sek, "confirmed"-vinkel |
 | 004-gta6-online | 2026-11-22 kl. 12.30 | 153 etter ca. 2 t (144 siste time) | 45,9 % | ca. 7 sek av 28 (25 %) | 1 | 4 likes, 134 fra Shorts-feeden, 5 fra søk. Tar seg raskt opp |
 
+| 005-gta6-ps4 | | | | | | 4 videoscener |
+| 006-gta6-story-dlc | | | | | | 4 videoscener |
+| 007-gta6-pc-update | | | | | | 4 videoscener |
+| 008-gta6-map-size | | | | | | 4 videoscener |
+| 009-gta6-game-pass | | | | | | 4 videoscener |
+
 ### Eldre videoer på kanalen (Studio 13.–21. nov., fra innsikt/latest.json)
 | Video | Visninger | Snitt visningstid | Sett % | Abonnenter |
 |---|---|---|---|---|
