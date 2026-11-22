@@ -3,6 +3,8 @@
 Skriv idéer her, én per linje. Boten tar den øverste som ikke er brukt.
 Nyhetsspørsmål fungerer best (se statistikk.md). Sjekk alltid fakta før bruk.
 
+- Can you play GTA 6 without a PS5? (cloud gaming, cheapest way) – fra en seerkommentar på 005
+
 - ~~Is GTA 6 coming to PS4? (what we know)~~ (brukt i 005)
 - ~~Will GTA 6 get story DLC? (what Rockstar has said)~~ (brukt i 006)
 - ~~GTA 6 PC release: latest update~~ (brukt i 007)
