@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-22T04:02:32Z",
+  "retrieved_at": "2026-11-22T04:55:57Z",
   "channel": {
     "id": "UCSkrhplI0A121BXm6pd4Q6g",
     "handle": "@vicehexdispatch",
@@ -115,7 +115,7 @@
       ]
     },
     "retrieved_at": "2026-11-22T03:03:04Z",
-    "last_refresh_attempt_at": "2026-11-22T04:02:32Z",
+    "last_refresh_attempt_at": "2026-11-22T04:55:57Z",
     "refresh_status": "blocked_insufficient_credits"
   },
   "videos": [
@@ -194,7 +194,7 @@
     }
   ],
   "previous_measurement": {
-    "retrieved_at": "2026-11-22T03:03:04Z",
+    "retrieved_at": "2026-11-22T04:02:32Z",
     "channel": {
       "id": "UCSkrhplI0A121BXm6pd4Q6g",
       "handle": "@vicehexdispatch",
@@ -207,16 +207,16 @@
     {
       "operation": "user_videos",
       "message": "Utilstrekkelige vidIQ-kreditter: 2 igjen, krever 5. Nye opplastinger og løpende videotall kunne ikke oppdateres.",
-      "at": "2026-11-22T04:02:32Z"
+      "at": "2026-11-22T04:55:57Z"
     },
     {
       "operation": "shorts_stayed_to_watch",
       "message": "Ikke hentet på grunn av kredittgrensen. Ikke beregnet fra andre tall.",
-      "at": "2026-11-22T04:02:32Z"
+      "at": "2026-11-22T04:55:57Z"
     },
     {
       "operation": "studio_refresh",
-      "at": "2026-11-22T04:02:32Z",
+      "at": "2026-11-22T04:55:57Z",
       "message": "Kun 2 vidIQ-kreditter tilgjengelig, rapport krever 5. Sist vellykkede Studio-data beholdt."
     }
   ],
@@ -225,10 +225,16 @@
     "Videotitler og lenker er fra tidligere bekreftet publisering; ikke en fullstendig ny opplastingsliste.",
     "Kanaltall uendret siden forrige avlesning. Studio-data er ikke hentet på nytt."
   ],
-  "channel_retrieved_at": "2026-11-22T04:02:32Z",
+  "channel_retrieved_at": "2026-11-22T04:55:57Z",
   "channel_change_since_previous": {
     "public_lifetime_views": 0,
     "subscribers": 0,
     "public_video_count": 0
+  },
+  "credit_limitation": {
+    "remaining": 2,
+    "required_per_report": 5,
+    "checked_at": "2026-11-22T04:55:57Z",
+    "renews_at": "2026-12-13T12:48:31.065835Z"
   }
 }
