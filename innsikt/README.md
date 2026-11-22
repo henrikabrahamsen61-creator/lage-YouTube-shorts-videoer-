@@ -1,14 +1,14 @@
 # YouTube-innsikt – ViceHex Dispatch
 
-Kanaltall kontrollert: 22. november 2026 kl. 09.01 norsk tid (08.01 UTC).
+Kanaltall kontrollert: 22. november 2026 kl. 09.55 norsk tid (08.55 UTC).
 
-Endring siden kl. 08.04: 0 visninger, 0 abonnenter og 0 videoer i de rapporterte kanaltallene. Dette er forskjell mellom avlesninger, ikke en Studio-timerapport.
+Endring siden kl. 09.01: 0 visninger, +1 abonnent og −1 offentlig video i de rapporterte kanaltallene. Dette er forskjell mellom avlesninger, ikke en Studio-timerapport.
 
 ## Løpende kanaltall
 
 | Visninger totalt | Abonnenter | Offentlige videoer |
 |---:|---:|---:|
-|427|3|5|
+|427|4|4|
 
 ## Forsinket Studio-rapport
 
@@ -25,6 +25,8 @@ Periode: 13.–21. november 2026, hele rapporteringsdager. Ingen timerapport. Ma
 |[3 GTA 6 Mistakes Everyone Makes](https://www.youtube.com/watch?v=n1VS7_aPlBA)|Ikke tilgjengelig|Ikke tilgjengelig|Ikke tilgjengelig|Ikke tilgjengelig|Ikke tilgjengelig|Ikke tilgjengelig|Ikke tilgjengelig|Ikke tilgjengelig|Ikke tilgjengelig|
 
 Stayed-to-watch og swiped-away: ikke tilgjengelig. Ingen ny Studio-måling å sammenligne med.
+
+Antallet offentlige videoer rapporteres nå som 4, mens tabellen inneholder 5 tidligere bekreftede opplastinger. Nåværende synlighet for hver video er ikke kontrollert; ingen video er fjernet fra historiske målinger.
 
 ## Begrensninger
 
