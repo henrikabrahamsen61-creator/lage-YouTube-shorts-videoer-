@@ -5,7 +5,7 @@
 - **Målgruppe:** gamere 13–35, internasjonalt, ser Shorts uten lyd
 - **Stil:** neon, natt, Miami/Florida-stemning, sportsbiler, palmer, raske kutt, store tekster
 - **Stemme:** Hype (Artlist, amerikansk engelsk, energisk). Sett opp 8 % i tempo med ffmpeg (atempo=1.08).
-- **Lengde:** 25–35 sek
+- **Lengde:** 20–25 sek (klipp 001 ble sett i snitt ca. 13 av 41 sek)
 - **Style kit i Artlist:** "Neon Vice" (opprettet, med fargepalett og stilregler)
 - **Kredittbudsjett per klipp:** 1000
 - **Ting boten ALDRI skal lage:**

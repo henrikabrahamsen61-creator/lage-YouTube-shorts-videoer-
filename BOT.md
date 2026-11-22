@@ -25,11 +25,11 @@ Klipp 001 hadde ca. 50 % "viewed vs. swiped away". Målet er over 70 %. Regler:
 - **Tekst fra første bilde:** skriv 2–5 ord i `hook.txt` (maks ca. 12 tegn per linje). Den vises stor og gul øverst de første 3 sek. Eksempler: "NO GTA 6 / ON PC?!", "DON'T SKIP / THIS IN GTA 6".
 - **Første setning under 1,5 sek og uten oppvarming.** Start midt i saken med et sjokk, et spørsmål eller et løfte: "Rockstar is hiding something in GTA 6." – ikke "GTA 6 is finally here."
 - **Nytt bilde hvert 2–3 sek** de første 10 sekundene.
-- **Lengde 25–35 sek.** Kortere klipp blir sett ferdig oftere, og det hjelper i algoritmen.
+- **Lengde 20–25 sek.** Klipp 001 (41 sek) ble i snitt sett i ca. 13 sek. Kortere klipp blir sett ferdig oftere, og det hjelper i algoritmen.
 - **Fortell utbyttet først:** si hva seeren får ("3 secrets", "the release date") i første setning, og lever det helt mot slutten.
 
 ## 2. Manus og shot-liste
-- Følg reglene i 2a. 25–35 sek totalt, 8–12 scener på 2–4 sek.
+- Følg reglene i 2a. 20–25 sek totalt, 7–10 scener på 2–3 sek.
 - Skriv manus, shot-liste og prompts i `plan.md`. Prompts skal be om vertikal 9:16.
 
 ## 3. Generer i Artlist

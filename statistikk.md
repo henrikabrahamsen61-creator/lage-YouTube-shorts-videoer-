@@ -5,7 +5,7 @@ Boten leser denne filen før den lager et nytt klipp, og bruker tallene til å j
 
 | Klipp | Lastet opp | Visninger | Viewed vs. swiped away | Snitt visningstid | Nye abonnenter | Notater |
 |---|---|---|---|---|---|---|
-| 001-gta6-pc-release | 2026-11-21 | 400 | ca. 50 % | | 4 | Rolig åpning uten hook-tekst |
+| 001-gta6-pc-release | 2026-11-21 | 951 (22.11 kl. 12) | 50,2 % | ca. 13 sek av 41 (31 %) | 4 | 25 likes (2,6 %), 3,4 t seertid, all trafikk fra Shorts-feeden. Rolig åpning uten hook-tekst |
 | 002-gta6-mistakes | 2026-11-22 | | | | | Første med nye hook-regler |
 | 003-gta6-vs-gta5 | | | | | | 24 sek, "confirmed"-vinkel |
 
