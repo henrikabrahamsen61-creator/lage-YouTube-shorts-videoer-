@@ -6,7 +6,7 @@ Les `kanal.md` først. Står nisjen som "IKKE SATT", stopp og ikke bruk kreditte
 ## 0. Sjekk statistikken FØRST
 - Statistikken fra YouTube pushes til repoet hver time (fra 23.11.2026 kl. 04). Kjør `git pull` først, så du har de nyeste tallene.
 - Les `statistikk.md` og alle nye statistikkfiler (f.eks. i en mappe `statistikk/` eller som .csv/.json). Se `git log --since="1 day ago" --stat` for å finne hva som er kommet. Bruk de nyeste tallene per klipp.
-- Mangler tallene for det forrige publiserte klippet (visninger og "viewed vs. swiped away"), skal du **ikke lage et nytt klipp**. Skriv i stedet en kort melding om hvilke tall som mangler, og stopp. Du bruker da ingen kreditter.
+- Lag alltid et nytt klipp ved den daglige kjøringen kl. 10:47. Mangler tallene for det forrige klippet, bruker du tallene for de eldre klippene og skriver i `plan.md` hvilke tall som manglet.
 - Har du tallene: skriv 2–3 linjer under "Lærdom" i `plan.md` for det nye klippet om hva du endrer basert på dem. Velg tema som ligner klippene med flest abonnenter per visning.
 
 ## 1. Velg idé
