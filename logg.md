@@ -12,3 +12,4 @@
 | 2026-11-22 | 008-gta6-map-size | How Big Is the GTA 6 Map Really? | ca. 935 | | |
 | 2026-11-22 | 009-gta6-game-pass | Is GTA 6 on Game Pass or PS Plus? | ca. 985 | | |
 | 2026-11-23 | 010-gta6-pc-january | GTA 6 on PC in January? Here's the Truth | ca. 1004 | | |
+| 2026-11-23 | 011-gta6-without-ps5 | Can You Play GTA 6 Without a PS5? Yes, Here's How | ca. 806 | | |
