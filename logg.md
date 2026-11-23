@@ -11,3 +11,4 @@
 | 2026-11-22 | 007-gta6-pc-update | GTA 6 PC Release Date: Latest Update | ca. 962 | | |
 | 2026-11-22 | 008-gta6-map-size | How Big Is the GTA 6 Map Really? | ca. 935 | | |
 | 2026-11-22 | 009-gta6-game-pass | Is GTA 6 on Game Pass or PS Plus? | ca. 985 | | |
+| 2026-11-23 | 010-gta6-pc-january | GTA 6 on PC in January? Here's the Truth | ca. 1004 | | |
