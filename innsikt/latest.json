@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-23T20:04:20.274Z",
+  "retrieved_at": "2026-11-23T21:01:24.819Z",
   "channel": {
     "id": "UCSkrhplI0A121BXm6pd4Q6g",
     "handle": "@vicehexdispatch",
@@ -117,7 +117,7 @@
     "retrieved_at": "2026-11-22T03:03:04Z",
     "last_refresh_attempt_at": "2026-11-22T08:01:03Z",
     "refresh_status": "blocked_insufficient_credits",
-    "last_refresh_check_at": "2026-11-23T20:04:20.274Z"
+    "last_refresh_check_at": "2026-11-23T21:01:24.819Z"
   },
   "videos": [
     {
@@ -195,7 +195,7 @@
     }
   ],
   "previous_measurement": {
-    "retrieved_at": "2026-11-23T19:05:01.997Z",
+    "retrieved_at": "2026-11-23T20:04:20.274Z",
     "channel": {
       "id": "UCSkrhplI0A121BXm6pd4Q6g",
       "handle": "@vicehexdispatch",
@@ -208,18 +208,18 @@
     {
       "operation": "user_videos",
       "message": "Utilstrekkelige vidIQ-kreditter: 2 igjen, krever 5. Nye opplastinger og løpende videotall kunne ikke oppdateres.",
-      "at": "2026-11-23T20:04:20.274Z",
+      "at": "2026-11-23T21:01:24.819Z",
       "status": "not_requested_insufficient_credits"
     },
     {
       "operation": "shorts_stayed_to_watch",
       "message": "Ikke hentet på grunn av kredittgrensen. Ikke beregnet fra andre tall.",
-      "at": "2026-11-23T20:04:20.274Z",
+      "at": "2026-11-23T21:01:24.819Z",
       "status": "not_requested_insufficient_credits"
     },
     {
       "operation": "studio_refresh",
-      "at": "2026-11-23T20:04:20.274Z",
+      "at": "2026-11-23T21:01:24.819Z",
       "message": "Kun 2 vidIQ-kreditter tilgjengelig, rapport krever 5. Sist vellykkede Studio-data beholdt.",
       "status": "not_requested_insufficient_credits"
     }
@@ -229,7 +229,7 @@
     "Videotitler og lenker er fra tidligere bekreftet publisering; ikke en fullstendig ny opplastingsliste.",
     "Kanaltall uendret siden forrige avlesning. Videooversikten er ikke oppdatert. Sist vellykkede Studio-data beholdt på grunn av kredittgrensen."
   ],
-  "channel_retrieved_at": "2026-11-23T20:04:20.274Z",
+  "channel_retrieved_at": "2026-11-23T21:01:24.819Z",
   "channel_change_since_previous": {
     "public_lifetime_views": 0,
     "subscribers": 0,
@@ -238,7 +238,7 @@
   "credit_limitation": {
     "remaining": 2,
     "required_per_report": 5,
-    "checked_at": "2026-11-23T20:04:20.274Z",
+    "checked_at": "2026-11-23T21:01:24.819Z",
     "renews_at": "2026-12-13T12:48:31.065835Z"
   }
 }
