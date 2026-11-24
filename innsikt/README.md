@@ -1,8 +1,8 @@
 # YouTube-innsikt – ViceHex Dispatch
 
-Kanaltall kontrollert: 24. november 2026 kl. 02:01 norsk tid. UTC: 2026-11-24T01:01:07.481Z.
+Kanaltall kontrollert: 24. november 2026 kl. 03:01 norsk tid. UTC: 2026-11-24T02:01:22.263Z.
 
-Endring siden 24. november kl. 01.01 norsk tid: 0 visninger, 0 abonnenter og 0 offentlige videoer i de rapporterte kanaltallene. Dette er forskjell mellom avlesninger, ikke en Studio-timerapport.
+Endring siden 24. november kl. 02.01 norsk tid: 0 visninger, 0 abonnenter og 0 offentlige videoer i de rapporterte kanaltallene. Dette er forskjell mellom avlesninger, ikke en Studio-timerapport.
 
 ## Løpende kanaltall
 
