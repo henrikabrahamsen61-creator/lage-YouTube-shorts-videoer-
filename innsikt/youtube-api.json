@@ -1,18 +1,27 @@
 {
-  "hentet": "2026-11-23T22:35:01.485077+00:00",
+  "hentet": "2026-11-24T09:48:56.910244+00:00",
   "kanal": {
     "navn": "ViceHex Dispatch 🎮",
     "abonnenter": 9,
-    "visninger": 434,
-    "videoer": 9
+    "visninger": 2778,
+    "videoer": 10
   },
   "videoer": [
+    {
+      "id": "3TqfirUM6ls",
+      "tittel": "Can You Play GTA 6 Without a PS5? Yes, Here's How",
+      "publisert": "2026-11-24T08:07:35Z",
+      "varighet": "PT35S",
+      "visninger": 8,
+      "likes": 0,
+      "kommentarer": 0
+    },
     {
       "id": "1o9I862U5EU",
       "tittel": "GTA 6 on PC in January? Here's the Truth",
       "publisert": "2026-11-23T08:35:26Z",
       "varighet": "PT34S",
-      "visninger": 157,
+      "visninger": 162,
       "likes": 2,
       "kommentarer": 0
     },
@@ -21,8 +30,8 @@
       "tittel": "Will GTA 6 Get Story DLC? Here's What We Know",
       "publisert": "2026-11-22T17:05:01Z",
       "varighet": "PT28S",
-      "visninger": 270,
-      "likes": 13,
+      "visninger": 301,
+      "likes": 17,
       "kommentarer": 0
     },
     {
@@ -30,7 +39,7 @@
       "tittel": "Is GTA 6 Coming to PS4? (Bad News)",
       "publisert": "2026-11-22T14:07:03Z",
       "varighet": "PT29S",
-      "visninger": 151,
+      "visninger": 158,
       "likes": 9,
       "kommentarer": 4
     },
@@ -39,7 +48,7 @@
       "tittel": "Where Is GTA 6 Online? Here's What We Know",
       "publisert": "2026-11-22T11:32:09Z",
       "varighet": "PT28S",
-      "visninger": 596,
+      "visninger": 613,
       "likes": 25,
       "kommentarer": 0
     },
@@ -48,7 +57,7 @@
       "tittel": "3 GTA 6 Mistakes Everyone Makes",
       "publisert": "2026-11-22T02:03:28Z",
       "varighet": "PT31S",
-      "visninger": 16,
+      "visninger": 17,
       "likes": 1,
       "kommentarer": 0
     },
