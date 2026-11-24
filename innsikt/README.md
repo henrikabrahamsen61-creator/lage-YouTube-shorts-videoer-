@@ -1,8 +1,8 @@
 # YouTube-innsikt – ViceHex Dispatch
 
-Kanaltall kontrollert: 24. november 2026 kl. 11:01 norsk tid. UTC: 2026-11-24T10:01:21.765Z.
+Kanaltall kontrollert: 24. november 2026 kl. 12:01 norsk tid. UTC: 2026-11-24T11:01:12.109Z.
 
-Endring siden 24. november kl. 10.01 norsk tid: +1201 visninger, 0 abonnenter og +1 offentlig video i de rapporterte kanaltallene. Dette er forskjell mellom avlesninger, ikke en Studio-timerapport.
+Endring siden 24. november kl. 11.01 norsk tid: 0 visninger, 0 abonnenter og 0 offentlige videoer i de rapporterte kanaltallene. Dette er forskjell mellom avlesninger, ikke en Studio-timerapport.
 
 ## Løpende kanaltall
 
@@ -26,7 +26,7 @@ Periode: 13.–21. november 2026, hele rapporteringsdager. Ingen timerapport. Ma
 
 Stayed-to-watch og swiped-away: ikke tilgjengelig. Ingen ny Studio-måling å sammenligne med.
 
-Antallet offentlige videoer er nå 10, opp 1 siden forrige avlesning. Videooversikten er ikke oppdatert på grunn av kredittgrensen; tabellen er derfor ikke en fullstendig liste over nåværende offentlige videoer.
+Antallet offentlige videoer er fortsatt 10, uendret siden forrige avlesning. Videooversikten er ikke oppdatert på grunn av kredittgrensen; tabellen er derfor ikke en fullstendig liste over nåværende offentlige videoer.
 
 ## Begrensninger
 
