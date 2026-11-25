@@ -15,3 +15,4 @@
 | 2026-11-23 | 011-gta6-without-ps5 | Can You Play GTA 6 Without a PS5? Yes, Here's How | ca. 806 | | |
 | 2026-11-24 | 012-gta6-sales | How Much Did GTA 6 Sell? $3.79 Billion in One Day | ca. 773 | | |
 | 2026-11-24 | 013-gta6-how-long | How Long Is GTA 6? (Hours to Beat) | ca. 770 | | |
+| 2026-11-25 | 014-gta6-ps5-vs-xbox | PS5 vs Xbox: Where Does GTA 6 Run Best? | ca. 769 | | |
