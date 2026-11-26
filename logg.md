@@ -17,3 +17,4 @@
 | 2026-11-24 | 013-gta6-how-long | How Long Is GTA 6? (Hours to Beat) | ca. 770 | | |
 | 2026-11-25 | 014-gta6-ps5-vs-xbox | PS5 vs Xbox: Where Does GTA 6 Run Best? | ca. 769 | | |
 | 2026-11-25 | 015-gta6-metacritic | GTA 6 Got a 99 on Metacritic (Tied for Best Ever) | ca. 760 | | |
+| 2026-11-26 | 016-gta6-twitch-record | GTA 6 Just Broke Twitch's All-Time Record | ca. 780 | | |

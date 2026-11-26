@@ -1,19 +1,37 @@
 {
-  "hentet": "2026-11-25T09:48:09.151418+00:00",
+  "hentet": "2026-11-26T09:48:16.944872+00:00",
   "kanal": {
     "navn": "ViceHex Dispatch 🎮",
-    "abonnenter": 10,
-    "visninger": 2926,
-    "videoer": 11
+    "abonnenter": 11,
+    "visninger": 3065,
+    "videoer": 12
   },
   "videoer": [
+    {
+      "id": "-HUPoD3ynCQ",
+      "tittel": "How Much Did GTA 6 Sell? $3.79 Billion in One Day",
+      "publisert": "2026-11-25T23:04:53Z",
+      "varighet": "PT39S",
+      "visninger": 168,
+      "likes": 6,
+      "kommentarer": 0
+    },
+    {
+      "id": "gYDHyCh1oW4",
+      "tittel": "GTA 6 Got a 99 on Metacritic (Tied for Best Ever)",
+      "publisert": "2026-11-25T23:04:43Z",
+      "varighet": "PT34S",
+      "visninger": 321,
+      "likes": 8,
+      "kommentarer": 0
+    },
     {
       "id": "PV0Z2Uigz9c",
       "tittel": "How Long Is GTA 6? (Hours to Beat)",
       "publisert": "2026-11-24T22:54:23Z",
       "varighet": "PT35S",
-      "visninger": 1,
-      "likes": 0,
+      "visninger": 21,
+      "likes": 1,
       "kommentarer": 0
     },
     {
@@ -21,7 +39,7 @@
       "tittel": "Can You Play GTA 6 Without a PS5? Yes, Here's How",
       "publisert": "2026-11-24T08:07:35Z",
       "varighet": "PT35S",
-      "visninger": 77,
+      "visninger": 129,
       "likes": 1,
       "kommentarer": 0
     },
@@ -30,7 +48,7 @@
       "tittel": "GTA 6 on PC in January? Here's the Truth",
       "publisert": "2026-11-23T08:35:26Z",
       "varighet": "PT34S",
-      "visninger": 175,
+      "visninger": 177,
       "likes": 3,
       "kommentarer": 0
     },
@@ -39,7 +57,7 @@
       "tittel": "Will GTA 6 Get Story DLC? Here's What We Know",
       "publisert": "2026-11-22T17:05:01Z",
       "varighet": "PT28S",
-      "visninger": 324,
+      "visninger": 388,
       "likes": 18,
       "kommentarer": 0
     },
@@ -48,7 +66,7 @@
       "tittel": "Is GTA 6 Coming to PS4? (Bad News)",
       "publisert": "2026-11-22T14:07:03Z",
       "varighet": "PT29S",
-      "visninger": 174,
+      "visninger": 175,
       "likes": 10,
       "kommentarer": 4
     },
@@ -57,7 +75,7 @@
       "tittel": "Where Is GTA 6 Online? Here's What We Know",
       "publisert": "2026-11-22T11:32:09Z",
       "varighet": "PT28S",
-      "visninger": 616,
+      "visninger": 617,
       "likes": 26,
       "kommentarer": 0
     },
@@ -75,7 +93,7 @@
       "tittel": "GTA 6 Is Out… But When Is It Coming to PC?",
       "publisert": "2026-11-21T23:26:06Z",
       "varighet": "PT42S",
-      "visninger": 1146,
+      "visninger": 1147,
       "likes": 29,
       "kommentarer": 2
     },
