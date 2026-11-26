@@ -1,11 +1,11 @@
 {
-  "retrieved_at": "2026-11-25T23:02:23.309Z",
+  "retrieved_at": "2026-11-26T21:02:35.065Z",
   "channel": {
     "id": "UCSkrhplI0A121BXm6pd4Q6g",
     "handle": "@vicehexdispatch",
-    "subscribers": 10,
-    "public_lifetime_views": 2926,
-    "public_video_count": 11
+    "subscribers": 11,
+    "public_lifetime_views": 3664,
+    "public_video_count": 12
   },
   "studio": {
     "start_date": "2026-11-13",
@@ -117,7 +117,7 @@
     "retrieved_at": "2026-11-22T03:03:04Z",
     "last_refresh_attempt_at": "2026-11-22T08:01:03Z",
     "refresh_status": "blocked_insufficient_credits",
-    "last_refresh_check_at": "2026-11-25T23:02:23.309Z"
+    "last_refresh_check_at": "2026-11-26T21:02:35.065Z"
   },
   "videos": [
     {
@@ -195,7 +195,7 @@
     }
   ],
   "previous_measurement": {
-    "retrieved_at": "2026-11-25T22:04:50.369Z",
+    "retrieved_at": "2026-11-25T23:02:23.309Z",
     "channel": {
       "id": "UCSkrhplI0A121BXm6pd4Q6g",
       "handle": "@vicehexdispatch",
@@ -208,18 +208,18 @@
     {
       "operation": "user_videos",
       "message": "Utilstrekkelige vidIQ-kreditter: 2 igjen, krever 5. Nye opplastinger og løpende videotall kunne ikke oppdateres.",
-      "at": "2026-11-25T23:02:23.309Z",
+      "at": "2026-11-26T21:02:35.065Z",
       "status": "not_requested_insufficient_credits"
     },
     {
       "operation": "shorts_stayed_to_watch",
       "message": "Ikke hentet på grunn av kredittgrensen. Ikke beregnet fra andre tall.",
-      "at": "2026-11-25T23:02:23.309Z",
+      "at": "2026-11-26T21:02:35.065Z",
       "status": "not_requested_insufficient_credits"
     },
     {
       "operation": "studio_refresh",
-      "at": "2026-11-25T23:02:23.309Z",
+      "at": "2026-11-26T21:02:35.065Z",
       "message": "Kun 2 vidIQ-kreditter tilgjengelig, rapport krever 5. Sist vellykkede Studio-data beholdt.",
       "status": "not_requested_insufficient_credits"
     }
@@ -227,18 +227,18 @@
   "notes": [
     "Kanaltall er løpende; Studio-rapporten kan være forsinket.",
     "Videotitler og lenker er fra tidligere bekreftet publisering; ikke en fullstendig ny opplastingsliste.",
-    "Kanaltall uendret siden forrige avlesning. Videooversikten er ikke fullstendig oppdatert. Sist vellykkede Studio-data beholdt på grunn av kredittgrensen."
+    "Siden forrige avlesning: +738 rapporterte offentlige visninger, +1 abonnent og +1 offentlig video. Videooversikten er ikke fullstendig oppdatert. Sist vellykkede Studio-data beholdt på grunn av kredittgrensen."
   ],
-  "channel_retrieved_at": "2026-11-25T23:02:23.309Z",
+  "channel_retrieved_at": "2026-11-26T21:02:35.065Z",
   "channel_change_since_previous": {
-    "public_lifetime_views": 0,
-    "subscribers": 0,
-    "public_video_count": 0
+    "public_lifetime_views": 738,
+    "subscribers": 1,
+    "public_video_count": 1
   },
   "credit_limitation": {
     "remaining": 2,
     "required_per_report": 5,
-    "checked_at": "2026-11-25T23:02:23.309Z",
+    "checked_at": "2026-11-26T21:02:35.065Z",
     "renews_at": "2026-12-13T12:48:31.065835Z"
   }
 }
